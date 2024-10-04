@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+ultralytics
+opencv-python
+tensorflow
+tensorflow_hub
+pandas
+matplotlib
+embed
